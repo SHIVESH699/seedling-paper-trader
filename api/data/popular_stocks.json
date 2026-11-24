@@ -1,0 +1,299 @@
+[
+  {
+    "symbol": "RELIANCE.NS",
+    "name": "Reliance Industries Ltd",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Energy",
+    "description": "Indian conglomerate operating across oil-to-chemicals, Jio digital telecom services, Reliance Retail, and new green energy businesses."
+  },
+  {
+    "symbol": "TCS.NS",
+    "name": "Tata Consultancy Services Ltd",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Information Technology",
+    "description": "India's largest IT services, consulting, and enterprise software firm serving global banking, retail, healthcare, and manufacturing clients."
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "name": "HDFC Bank Ltd",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Financial Services",
+    "description": "India's largest private-sector bank by assets, offering retail banking, corporate lending, home loans, and digital payment services."
+  },
+  {
+    "symbol": "INFY.NS",
+    "name": "Infosys Ltd",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Information Technology",
+    "description": "Global digital services, cloud transformation, and consulting company headquartered in Bengaluru, India."
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "name": "ICICI Bank Ltd",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Financial Services",
+    "description": "Major Indian private-sector bank providing retail, SME, corporate banking, treasury, and wealth management services."
+  },
+  {
+    "symbol": "SBIN.NS",
+    "name": "State Bank of India",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Financial Services",
+    "description": "India's largest public-sector bank with the widest domestic branch network across urban and rural India."
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "name": "Bharti Airtel Ltd",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Telecommunication",
+    "description": "Leading telecommunications provider offering 5G mobile, broadband, DTH, and enterprise connectivity across India and Africa."
+  },
+  {
+    "symbol": "ITC.NS",
+    "name": "ITC Ltd",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Consumer Defensive",
+    "description": "Diversified Indian FMCG, agribusiness, paperboards, and consumer goods giant with brands such as Aashirvaad, Sunfeast, and Classmate."
+  },
+  {
+    "symbol": "LT.NS",
+    "name": "Larsen & Toubro Ltd",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Industrials",
+    "description": "Multinational engineering, EPC construction, infrastructure, defense, and technology conglomerate based in Mumbai."
+  },
+  {
+    "symbol": "HINDUNILVR.NS",
+    "name": "Hindustan Unilever Ltd",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Consumer Defensive",
+    "description": "India's largest fast-moving consumer goods company spanning home care, beauty, personal care, and packaged foods."
+  },
+  {
+    "symbol": "ASIANPAINT.NS",
+    "name": "Asian Paints Ltd",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Basic Materials",
+    "description": "India's market-leading decorative and industrial paints, coatings, and home decor company."
+  },
+  {
+    "symbol": "TATAMOTORS.NS",
+    "name": "Tata Motors Ltd",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Consumer Cyclical",
+    "description": "Indian automotive manufacturer producing passenger EVs, SUVs, commercial trucks, and Jaguar Land Rover vehicles."
+  },
+  {
+    "symbol": "BAJFINANCE.NS",
+    "name": "Bajaj Finance Ltd",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Financial Services",
+    "description": "Leading Indian non-banking financial company (NBFC) specializing in consumer durables financing, SME loans, and digital lending."
+  },
+  {
+    "symbol": "MARUTI.NS",
+    "name": "Maruti Suzuki India Ltd",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Consumer Cyclical",
+    "description": "India's largest passenger car manufacturer by market share, offering hatchbacks, sedans, CNG vehicles, and SUVs."
+  },
+  {
+    "symbol": "SUNPHARMA.NS",
+    "name": "Sun Pharmaceutical Industries Ltd",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Healthcare",
+    "description": "India's largest pharmaceutical company manufacturing specialty medicines and generic formulations globally."
+  },
+  {
+    "symbol": "TITAN.NS",
+    "name": "Titan Company Ltd",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Consumer Cyclical",
+    "description": "Tata Group consumer lifestyle leader known for Tanishq jewellery, Titan watches, and Titan Eye+."
+  },
+  {
+    "symbol": "NIFTYBEES.NS",
+    "name": "Nippon India ETF Nifty 50 BeES",
+    "exchange": "NSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "ETF",
+    "description": "Exchange-traded fund that tracks India's benchmark Nifty 50 index of the 50 largest NSE-listed companies."
+  },
+  {
+    "symbol": "RELIANCE.BO",
+    "name": "Reliance Industries Ltd (BSE)",
+    "exchange": "BSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Energy",
+    "description": "BSE listing of Reliance Industries Ltd across energy, Jio telecom, and retail."
+  },
+  {
+    "symbol": "TCS.BO",
+    "name": "Tata Consultancy Services Ltd (BSE)",
+    "exchange": "BSE",
+    "market": "IN",
+    "currency": "INR",
+    "sector": "Information Technology",
+    "description": "BSE listing of Tata Consultancy Services Ltd."
+  },
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "exchange": "NASDAQ",
+    "market": "US",
+    "currency": "USD",
+    "sector": "Technology",
+    "description": "Designs and sells iPhone, Mac, iPad, wearables, and high-margin digital services including iCloud and the App Store."
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "exchange": "NASDAQ",
+    "market": "US",
+    "currency": "USD",
+    "sector": "Technology",
+    "description": "Global software and cloud leader behind Azure, Microsoft 365, Windows, LinkedIn, and enterprise AI tools."
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc. (Class A)",
+    "exchange": "NASDAQ",
+    "market": "US",
+    "currency": "USD",
+    "sector": "Communication Services",
+    "description": "Parent company of Google Search, YouTube, Android, Google Cloud, and DeepMind."
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc.",
+    "exchange": "NASDAQ",
+    "market": "US",
+    "currency": "USD",
+    "sector": "Consumer Cyclical",
+    "description": "Global e-commerce marketplace, digital advertising leader, and cloud infrastructure provider through Amazon Web Services (AWS)."
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation",
+    "exchange": "NASDAQ",
+    "market": "US",
+    "currency": "USD",
+    "sector": "Technology",
+    "description": "Semiconductor company designing GPUs and accelerated computing platforms powering data centers, AI training, and gaming."
+  },
+  {
+    "symbol": "META",
+    "name": "Meta Platforms Inc.",
+    "exchange": "NASDAQ",
+    "market": "US",
+    "currency": "USD",
+    "sector": "Communication Services",
+    "description": "Operates Facebook, Instagram, WhatsApp, and Messenger, generating revenue primarily through digital advertising."
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla Inc.",
+    "exchange": "NASDAQ",
+    "market": "US",
+    "currency": "USD",
+    "sector": "Consumer Cyclical",
+    "description": "Designs and manufactures electric vehicles, utility-scale battery energy storage systems, and solar products."
+  },
+  {
+    "symbol": "BRK-B",
+    "name": "Berkshire Hathaway Inc. (Class B)",
+    "exchange": "NYSE",
+    "market": "US",
+    "currency": "USD",
+    "sector": "Financial Services",
+    "description": "Diversified holding company owning insurance, BNSF railroad, utilities, consumer brands, and major public equity stakes."
+  },
+  {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase & Co.",
+    "exchange": "NYSE",
+    "market": "US",
+    "currency": "USD",
+    "sector": "Financial Services",
+    "description": "Largest US bank by assets across consumer banking, investment banking, asset management, and commercial lending."
+  },
+  {
+    "symbol": "JNJ",
+    "name": "Johnson & Johnson",
+    "exchange": "NYSE",
+    "market": "US",
+    "currency": "USD",
+    "sector": "Healthcare",
+    "description": "Global healthcare company focused on innovative pharmaceuticals and medical technology devices."
+  },
+  {
+    "symbol": "V",
+    "name": "Visa Inc.",
+    "exchange": "NYSE",
+    "market": "US",
+    "currency": "USD",
+    "sector": "Financial Services",
+    "description": "Global digital payments network facilitating card and electronic transactions across over 200 countries."
+  },
+  {
+    "symbol": "KO",
+    "name": "The Coca-Cola Company",
+    "exchange": "NYSE",
+    "market": "US",
+    "currency": "USD",
+    "sector": "Consumer Defensive",
+    "description": "Global beverage leader selling sparkling soft drinks, water, juices, and ready-to-drink coffee and tea worldwide."
+  },
+  {
+    "symbol": "SPY",
+    "name": "SPDR S&P 500 ETF Trust",
+    "exchange": "NYSE",
+    "market": "US",
+    "currency": "USD",
+    "sector": "ETF",
+    "description": "Exchange-traded fund tracking the S&P 500 index of 500 leading large-cap US companies."
+  },
+  {
+    "symbol": "VOO",
+    "name": "Vanguard S&P 500 ETF",
+    "exchange": "NYSE",
+    "market": "US",
+    "currency": "USD",
+    "sector": "ETF",
+    "description": "Low-cost Vanguard ETF tracking the S&P 500 index, widely used for long-term passive US equity investing."
+  }
+]
